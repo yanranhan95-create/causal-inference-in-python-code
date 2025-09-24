@@ -140,3 +140,6 @@ dmypy.json
 build/*
 build_/*
 data/img/*
+
+# uv
+uv.lock
